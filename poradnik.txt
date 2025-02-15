@@ -22,3 +22,6 @@
 
 6.Jednoczesny commit i add
 "git commit -am "Komentarz""
+
+7. Weryfikacja branchy
+"git branch"
