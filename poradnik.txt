@@ -1,0 +1,5 @@
+1. Utworzenie lokalnego repozytorium w katalogu, w któym się znajdujesz
+"git init"
+2. Weryfikacja statusu repo
+"git status"
+3.
