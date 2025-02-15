@@ -2,4 +2,7 @@
 "git init"
 2. Weryfikacja statusu repo
 "git status"
-3.
+3. Dodanie pliku do tracked (żeby git go "śledził")
+"git add ."
+4. Dodanie zmian do repo
+"git commit -m "Komentarz"
