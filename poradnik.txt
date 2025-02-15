@@ -32,3 +32,5 @@
 9. Przełączenie na innego brancha
 "git checkout nazwa_brancha"
 
+10. Merge z innym branchem:
+git merge nazwa_brancha_do_zaciągnięcia
