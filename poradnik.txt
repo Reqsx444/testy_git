@@ -25,3 +25,10 @@
 
 7. Weryfikacja branchy
 "git branch"
+
+8. Dodanie nowego brancha
+"git checkout -b "nazwa_nowego_brancha""
+
+9. Przełączenie na innego brancha
+"git checkout nazwa_brancha"
+
