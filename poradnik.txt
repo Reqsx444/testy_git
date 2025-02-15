@@ -19,3 +19,6 @@
 
 5. Dodanie zmian do repo
 "git commit -m "Komentarz"
+
+6.Jednoczesny commit i add
+"git commit -am "Komentarz""
