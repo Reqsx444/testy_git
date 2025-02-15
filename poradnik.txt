@@ -34,3 +34,10 @@
 
 10. Merge z innym branchem:
 git merge nazwa_brancha_do_zaciągnięcia
+
+11. Podłączenie do zewnętrznego repozytorium:
+ git remote add origin adres_do_repo
+
+12. Zmiana nazwy brancha na którym się znajdujemy:
+git branch -M nowa_nazwa
+
