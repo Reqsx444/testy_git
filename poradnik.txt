@@ -1,3 +1,6 @@
+0. Ustawienie globalnie nazwy i adresu użytkownika git
+"git config --global user.name "Damian Golał""
+"git config --global user.email "reqsx4@gmail.com""
 1. Utworzenie lokalnego repozytorium w katalogu, w któym się znajdujesz
 "git init"
 2. Weryfikacja statusu repo
