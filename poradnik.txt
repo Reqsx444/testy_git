@@ -25,3 +25,6 @@
 
 7. Weryfikacja branchy
 "git branch"
+
+8. Dodanie nowego brancha do repo
+"git checkout -b "nazwa_brancha""
