@@ -1,11 +1,21 @@
 0. Ustawienie globalnie nazwy i adresu użytkownika git
 "git config --global user.name "Damian Golał""
 "git config --global user.email "reqsx4@gmail.com""
-1. Utworzenie lokalnego repozytorium w katalogu, w któym się znajdujesz
+
+1. Historia commitów na branchu
+"git log"
+
+
+2. Utworzenie lokalnego repozytorium w katalogu, w któym się znajdujesz
 "git init"
-2. Weryfikacja statusu repo
+
+3. Weryfikacja statusu repo
 "git status"
-3. Dodanie pliku do tracked (żeby git go "śledził")
-"git add ."
-4. Dodanie zmian do repo
+
+4. Dodanie pliku do tracked (żeby git go "śledził")
+"git add nazwa_pliku"
+"git add -A" (wszystkie untracked)
+"git add ." (wszystkie pliki w katalogu)
+
+5. Dodanie zmian do repo
 "git commit -m "Komentarz"
