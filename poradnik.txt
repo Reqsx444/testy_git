@@ -20,7 +20,7 @@
 5. Dodanie zmian do repo
 "git commit -m "Komentarz"
 
-6.Jednoczesny commit i add
+6.Jednoczesny commit i add dla plików już trackowanych
 "git commit -am "Komentarz""
 
 7. Weryfikacja branchy
@@ -43,3 +43,12 @@
 
 13. Pushowanie lokalnego repo do repo zewnętrznego:
 "git push -u origin master"
+
+14. Pobieranie repo
+"git clone link_do_repo"
+
+15. Synchronizacja lokalnego repo z repo origin
+"git pull"
+
+16. Synchronizacja lokalnego repo z repo origin + nałożenie obecnych commitów na zaciągnięte repo
+"git pull --rebase"
