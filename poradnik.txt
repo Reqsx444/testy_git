@@ -52,3 +52,9 @@
 
 16. Synchronizacja lokalnego repo z repo origin + nałożenie obecnych commitów na zaciągnięte repo
 "git pull --rebase"
+
+17. Reset plików to poprzedniego commita:
+"git reset --hard"
+
+18. Jeśli chcemy cofnąc zmieny tylko z jednego pliku do ostatniego commita
+"git checkout nazwa_pliku_cofanego"
